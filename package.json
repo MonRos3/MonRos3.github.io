@@ -1,7 +1,7 @@
 {
-  "name": "monicaball-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://MonRose.github.io",
+  "homepage": "https://monicaball.com",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.0",
