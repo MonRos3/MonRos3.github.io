@@ -1,2 +1,3 @@
-# MonRos3.github.io
-Username repository for hosting portfolio website.
+# Portfolio Website for MonicaBall.com
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
